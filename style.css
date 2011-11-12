@@ -1,0 +1,10 @@
+table tr{height:25px;}
+table td{width:25px;text-align:center;color:blue;}
+table td.h{border-top:2px solid black;}
+table td.l{border-left:2px solid black;}
+table td.r{border-right:2px solid black;}
+table td.b{border-bottom:2px solid black;}
+.backred{background-color:red;}
+
+#matteo {margin-left:50%;width:49%;height:300px;border:1px solid red;position:absolute;}
+#marco {width:49%;border:1px solid red;height:300px;}
